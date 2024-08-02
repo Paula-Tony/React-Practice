@@ -6,7 +6,7 @@ function Contact() {
       <h2 className="text-center uppercase mb-4 font-bold text-3xl">
         Contact Section
       </h2>
-      <Separator bg="bg-white" text="bg-black" />
+      <Separator bg="bg-white" text="before:bg-black" />
       <form className="w-full max-w-lg mx-auto">
         <input
           className="w-full p-2 mb-4 border-b-2 focus:outline-none"

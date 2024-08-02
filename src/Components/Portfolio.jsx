@@ -21,7 +21,7 @@ function Portfolio() {
       <h2 className="text-center uppercase mb-4 font-bold text-3xl">
         portfolio component
       </h2>
-      <Separator bg="bg-white" text="bg-black" />
+      <Separator bg="bg-white" text="before:bg-black" />
       <div className="flex flex-wrap">
         <div className="sm:w-1/3 p-2">
           <div className="rounded-md overflow-hidden relative group">

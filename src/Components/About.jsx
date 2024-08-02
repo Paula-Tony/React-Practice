@@ -6,7 +6,7 @@ function About() {
       <h2 className="uppercase text-3xl font-bold mb-4 text-center">
         about component
       </h2>
-      <Separator bg="bg-caribbeanGreen" text="bg-white" />
+      <Separator bg="bg-caribbeanGreen" text="before:bg-white" />
       <div className="flex flex-wrap mb-4">
         <p className="sm:w-1/2 mb-4 sm:mb-0 sm:pr-2">
           Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi sit
